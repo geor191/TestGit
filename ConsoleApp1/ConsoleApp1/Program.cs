@@ -13,6 +13,7 @@ namespace git1
             Console.WriteLine("йоу");
             Console.WriteLine("halloollah");
             Console.WriteLine("sdds");
+            Console.WriteLine("ds");
         }
     }
 }
