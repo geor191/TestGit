@@ -11,6 +11,8 @@ namespace git1
         static void Main(string[] args)
         {
             Console.WriteLine("йоу");
+            Console.WriteLine("halloollah");
+            Console.WriteLine("sdds");
         }
     }
 }
